@@ -1,0 +1,10 @@
+jupyterlab
+cartopy
+earth2studio
+matplotlib
+numpy
+pandas
+pillow
+requests
+scipy
+torch

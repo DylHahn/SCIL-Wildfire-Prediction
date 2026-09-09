@@ -1,0 +1,7 @@
+jupyterlab
+folium
+geopandas
+pandas
+pyogrio
+requests
+shapely
