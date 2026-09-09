@@ -1,5 +1,4 @@
 # SCIL Wildfire Prediction
-## Dylan Hahn SDSU climate informatic lab (SCIL) 
 
 Research notebooks for exploring current wildfire activity across the contiguous United States and examining the relationship between CorrDiff-predicted winds and NASA FIRMS detections during the 2024 Smokehouse Creek Fire.
 
