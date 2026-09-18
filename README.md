@@ -4,7 +4,8 @@ Research notebooks for exploring current wildfire activity across the contiguous
 
 > **Research use only.** These notebooks are not an operational fire-warning system. Satellite heat detections are not fire perimeters, and generated maps should not be used for evacuation or emergency decisions.
 
-<img width="2530" height="1628" alt="download" src="https://github.com/user-attachments/assets/1fb4cee0-49ac-4a08-8bb9-5d4e19c627fc" />
+<img width="2530" height="1628" alt="smokehouse_creek_corrdiff_firms_animation" src="https://github.com/user-attachments/assets/7a110765-c328-4e04-8cf0-f940b143df91" />
+
 
 
 ## Project workflows
